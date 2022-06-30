@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Listas</string>
+    <string name="Next_Button">NEXT</string>
+    <string name="Cancel_Button">CANCEL</string>
 </resources>
